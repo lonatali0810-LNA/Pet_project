@@ -1,9 +1,9 @@
 # Pet_project
 «Анализ рынка вакансий аналитиков на hh.ru: тренды и ключевые показатели"
 
-**Файл:** pet_project_2026_05.ipynb
+**Файл:** `pet_project_2026_05.ipynb`
 
-**Путь:** pet_project/pet_project_2026_05.ipynb
+**Путь:** `pet_project/pet_project_2026_05.ipynb`
 
 **Описание проекта:**
 
